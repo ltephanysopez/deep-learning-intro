@@ -14,7 +14,7 @@ Hello world! This repo is an introduction to deep learning. With the code here a
 - In machine learning, input data and desired results yield the progam we can use on future input data.
 - The output is a function of the inputs. Deep learning attempts to approximate that applied function.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lh6.googleusercontent.com/iO6BUV-ZLJl5fYoiBGi7hNxaDAUHvfisPM8O-Pr_pICybm4NPPISScpWJn73qukhiPSXgHuGdMG6gE5SO2lI=w1440-h820-rw" height=300>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://lh6.googleusercontent.com/iO6BUV-ZLJl5fYoiBGi7hNxaDAUHvfisPM8O-Pr_pICybm4NPPISScpWJn73qukhiPSXgHuGdMG6gE5SO2lI=w1440-h820-rw" height=200>
 
 ### What is Deep Learning?
 1. Applied linear algebra and calculus w/ the latest in hardware. Yay, math!
@@ -26,7 +26,7 @@ Hello world! This repo is an introduction to deep learning. With the code here a
 
 ## Anatomy of a Deep Learning Network
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://lh3.googleusercontent.com/HuIOvHcHNlM614H3qG2tXIBMEtiMpt95zA2STJ3YqjDjpO75VMc2QLrXDFNnnf-_fw7eWaHmgrz98T86_Roh=w1440-h820" height="400px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lh3.googleusercontent.com/HuIOvHcHNlM614H3qG2tXIBMEtiMpt95zA2STJ3YqjDjpO75VMc2QLrXDFNnnf-_fw7eWaHmgrz98T86_Roh=w1440-h820" height="400px">
 
 
 - In deep learning, we perform many data representations and transformations to compare predictions vs. true targets. The accuracy of the prediction is fed into an optimizer, and the optimizer updates the weights on different layers or features. Finally, the data is run through the same layers with updated weights.
