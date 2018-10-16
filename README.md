@@ -159,7 +159,6 @@ And that's it! If you'd like to keep on tinkering or learn more, here are a few 
 #### Video Recommendations
 
 - MIT's Linear Algebra `http://web.mit.edu/18.06/www/videos.shtml`
-- If you're a Bexar County resident, get your library card from `https://bexarbibliotech.org/` to get free access to `lynda.com`, a massive library of high quality video courses for professionals.
 - Recommend `https://www.lynda.com/Google-TensorFlow-tutorials/Building-Deep-Learning-Applications-Keras-2-0/601801-2.html`
 
 #### Selected readings
