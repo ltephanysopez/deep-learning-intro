@@ -14,9 +14,8 @@ Hello world! This repo is an introduction to deep learning. With the code here a
 - In machine learning, input data and desired results yield the progam we can use on future input data.
 - The output is a function of the inputs. Deep learning attempts to approximate that applied function.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lh5.googleusercontent.com/FvMZxQWUo4fXPB8ptVbVipGjAy54pKg_hH8W4Pv3KOieMuz87sVCCQiQMpua0i7cGbIHgE9nI0uUKlLHEv9Q=w1440-h820-rw" height=225>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lh5.googleusercontent.com/FvMZxQWUo4fXPB8ptVbVipGjAy54pKg_hH8W4Pv3KOieMuz87sVCCQiQMpua0i7cGbIHgE9nI0uUKlLHEv9Q=w1440-h820-rw" height=200>
 =======
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://lh6.googleusercontent.com/iO6BUV-ZLJl5fYoiBGi7hNxaDAUHvfisPM8O-Pr_pICybm4NPPISScpWJn73qukhiPSXgHuGdMG6gE5SO2lI=w1440-h820-rw" height=300>
   
 
 ### What is Deep Learning?
