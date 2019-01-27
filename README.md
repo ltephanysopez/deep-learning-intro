@@ -1,12 +1,12 @@
-# ✨ Intro to Deep Learning with Keras ✨
+# Intro to Deep Learning with Keras 
 
 ## Objectives
 
 Hello world! This repo is an introduction to deep learning. With the code here and a few other things you'll have to download, you should be able to:
 -  Run a neural network with Keras
 -  Import a data set
--   Explore shapes of data
--   Create a deep learning model
+-  Explore shapes of data
+-  Create a deep learning model
 
 
 ## Context
